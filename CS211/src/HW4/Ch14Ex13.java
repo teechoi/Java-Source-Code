@@ -10,6 +10,9 @@ This class contains exercise 13 in Chapter 14 of the textbook.
 It contains the expunge method which sorts a Stack in non-descending order from top to bottom
  */
 
+/*
+Comment testing for Git 02.03.20
+ */
 import java.util.Stack;
 
 public class Ch14Ex13 {
